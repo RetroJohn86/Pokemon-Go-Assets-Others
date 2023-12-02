@@ -1,0 +1,67 @@
++ **Stage 1 of 3**
+
+" Oh, __**Trainers Name**__! You've dropped by just in time. "
+
+"As I was out on my regular walk one evening. I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening."
+
+"Papers shifting around, Water glasses tipping all by themselves..."
+
+" When I tried using my computer to research it, I got an error message with the number **108** flashing! __**Trainers Name**__ can you help gather some  data on nearby Ghost-type Pokemon?""
+
+"I have to believe we can solve these spooky occurrences with science!"
+
+
+* __**Objectives**__
+**Catch 10 Ghost-Type Pokemon ( Encounter : Duskull or Random )**
+**Make 8 Great Throws (1,080 XP)**
+**Use 108 Berries To Help Catch Pokemon (Encounter : Lickitung or Random )**
+
+__**TIP 1 : Check The Ghost Type Picture Below**__
+__**TIP 2 : Try and find a pokemon with a big catch circle, it the easy way to get a Great Throw also use a normal pokeball so it mite jumps out**__
+__**TIP 3 : Try and find a pokemon with high CP and try to keep giving it a berry ONLY ONE AT A TIME**__
+
+* __**Rewards**__
+**x10 Pokeballs**
+**1,080 Stardust**
+**x8 Silver Pinap Berries**
+
+
++ **Stage 2 of 3**
+
+"__**Trainers Name**__ thank so much for your help. I did some research on Ghost-Type Pokemon, and I think there's a Ghost-and Dark-type Pokemon that is bound to a strange stone."
+
+"I can't say for sure just yet, but it seems this Pokemon may actually be composed of 108 spirits bound together. So maybe if we catch 108 Pokemon it will appear?"
+
+"Good luck __**Trainers Name**__ And...would you keep the light on in the lab for me? All this spooky research is making my hair stand on end."
+
+* __**Objectives**__
+**Catch 10 Dark-type Pokemon ( Encounter : Misdreavus or Random )**
+**Spin 8 PokeStops You Haven’t Visited Before (1,080 XP)**
+**Catch 108 Pokemon ( Encounter : Spiritomb )**
+
+__**TIP 1 : Check The Dark Type Picture Below**__
+
+* __**Rewards**__
+**x10 Pokeballs**
+**1,080 Stardust**
+**x8 Silver Pinap Berries**
+
+
++ **Stage 3 of 3**
+
+"Wow, __**Trainers Name**__ It seems we've had a spooky brush with Spiritomb!"
+
+"I can't tell if it's the weather, but I've got the shivers! You know, I feel confident that we can solve anything together, __**Trainers Name**__ even when things get scary."
+
+"I'll be in touch soon!"
+
+
+* __**Objectives**__
+**Already Completed (1,080 XP)**
+**Already Completed (1,080 XP)**
+**Already Completed (1,080 XP)**
+
+* __**Rewards**__
+**x10 Spiritomb Candys**
+**x8 Spiritomb Candys**
+**1,080 Stardust**
